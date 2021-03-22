@@ -1,0 +1,32 @@
+Shout Out To Early Play Testers: Dibyayan Kar And KAR LLC
+
+Credits:
+
+- p5.collide2d By Dibyayan Kar
+---- https://github.com/bmoren/p5.collide2D
+
+- js-cookie
+---- https://github.com/js-cookie/js-cookie
+
+vVer 1.0
+- First Fully Working Version
+- Hurahh
+
+Ver 1.01
+- Fixed Gamebreaking Glitch
+
+Ver 1.02
+- Gameplay Tweaks
+
+Ver 1.03
+- Added Tutorial
+
+Ver 1.04
+- Added Retry Button
+- Added High Score
+
+Ver 1.05
+- Added WASD Support
+
+Ver 1.06
+- Added Cookies To Store High Score
